@@ -1,0 +1,10 @@
+BRG001,Laptop,5
+BRG002,Mouse,20
+BRG003,Keyboard,15
+BRG004,Monitor,7
+BRG005,Printer,3
+BRG006,Flashdisk,25
+BRG007,Headset,10
+BRG008,Webcam,6
+BRG009,Speaker,8
+BRG010,Router,4
